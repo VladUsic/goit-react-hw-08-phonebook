@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "0991dfa3-f2cc-4b04-a1d3-11b816a43fd0",
+      "name": "Bugs Bunny",
+      "number": "093-5007030"
+    },
+    {
+      "id": "ea3378c0-51a1-4632-80bf-b5d9b3aa0551",
+      "name": "Anchous",
+      "number": "+380935007030"
+    },
+    {
+      "id": "5fecf0a7-0cee-48aa-b1c8-7c0164e6a3de",
+      "name": "Alex Voloshyn",
+      "number": "+380935007030"
+    },
+    {
+      "id": "5361ce37-0205-485e-a410-072424fc2dce",
+      "name": "Alex Voloshyn",
+      "number": "+380935007030"
+    },
+    {
+      "id": "6bfd306a-2534-41df-9de8-eac77d4ec5ef",
+      "name": "PlaShta",
+      "number": "+380935007030"
+    }
+  ]
+}
